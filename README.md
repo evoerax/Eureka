@@ -2,7 +2,7 @@
 
 [English](./README.md) | [中文](./README_cn.md)
 
-![Eureka](./assets/logo.jpg)
+![Eureka](./assets/eureka.jpg)
 
 > Academic paper research workflow tools
 

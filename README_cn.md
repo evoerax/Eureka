@@ -2,7 +2,7 @@
 
 [English](./README.md) | [中文](./README_cn.md)
 
-![Eureka](./assets/logo.jpg)
+![Eureka](./assets/eureka.jpg)
 
 > 学术论文研究工作流工具
 
