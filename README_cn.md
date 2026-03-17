@@ -49,6 +49,14 @@
 
 ## 安装
 
+### 快速安装
+
+```bash
+npx skills add evoerax/Eureka
+```
+
+### 手动安装
+
 将 skills 复制到你的 Claude Code skills 目录：
 
 ```bash

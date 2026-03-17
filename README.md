@@ -73,7 +73,15 @@ graph LR
 
 ## Installation
 
-### Claude Code
+### Quick Install
+
+```bash
+npx skills add evoerax/Eureka
+```
+
+### Manual Install
+
+#### Claude Code
 
 ```bash
 cp -r skills/eureka-paper-search ~/.claude/skills/
