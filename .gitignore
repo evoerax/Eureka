@@ -34,3 +34,6 @@ temp/
 # Environment
 .env
 .env.local
+
+# Ai
+.agents/
